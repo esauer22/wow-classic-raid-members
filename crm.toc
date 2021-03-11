@@ -1,0 +1,7 @@
+## Interface: 11306
+## Title: Classic Raid Members
+## Notes: Wow classic raid members.
+## Author: esauer22
+## Version: 1.0
+
+crm.lua
